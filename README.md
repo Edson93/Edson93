@@ -9,6 +9,7 @@
 - 🔭 I´m Web Developer
 
 - ⚡ I have added great skills to my professional experience such as HTML5, CSS3, Bootstrap, Figma, Ruby on Rails, and some JavaScript, which I have put into practice in our final project called "Akord" a web app to set a date.
+- [AKORD.ME🗓️ https://www.akord.me/](https://www.akord.me/)
 
 - 👯 I would like to put all the practice into new projects where I can develop myself as a Web Developer.
 
